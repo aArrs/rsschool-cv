@@ -11,3 +11,10 @@ I am looking forward to becoming a front-end developer. I do not have any workin
 ## Skills
 I have studied basics of such programming languages as `C++`, `C#`, `Java`, `Python` and `JavaScript`. 
 
+## Code example
+The solution of the task provided for registration on Codewars:
+```
+const multiply = (a, b) => {
+  return a * b;
+}
+```
