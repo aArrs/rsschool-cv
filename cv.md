@@ -21,3 +21,6 @@ const multiply = (a, b) => {
 
 ## Work experience
 No work experience.
+
+## Education
+Currently I am a junior at BSEU. My major is economic cybernetics.
