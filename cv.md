@@ -24,3 +24,6 @@ No work experience.
 
 ## Education
 Currently I am a junior at BSEU. My major is economic cybernetics.
+
+## English Language
+My English Language level is C2 Proficient according to the CEFR.
