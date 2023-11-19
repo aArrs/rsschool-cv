@@ -18,3 +18,6 @@ const multiply = (a, b) => {
   return a * b;
 }
 ```
+
+## Work experience
+No work experience.
