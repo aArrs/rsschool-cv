@@ -8,3 +8,6 @@
 ## About me
 I am looking forward to becoming a front-end developer. I do not have any working experience yet but I am eager to learn and acquire new skills.
 
+## Skills
+I have studied basics of such programming languages as `C++`, `C#`, `Java`, `Python` and `JavaScript`. 
+
