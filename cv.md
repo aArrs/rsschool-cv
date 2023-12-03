@@ -1,5 +1,7 @@
 # Arseniy Yuhnovets
 
+![My photo](https://github.com/aArrs/rsschool-cv/blob/gh-pages/avatar.jpg)
+
 ## Contacts
 * Github: `aArrs`
 * Discord: `Luminor#2056`
